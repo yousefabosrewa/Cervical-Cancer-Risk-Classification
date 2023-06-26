@@ -1,0 +1,192 @@
+Results for lr model and Hinselmann column:
+Best hyperparameters: {'C': 1, 'penalty': 'l2'}
+Accuracy: 0.7985
+Precision: 0.8125
+Recall: 0.7685
+F1-score: 0.7899
+ROC AUC score: 0.7981
+
+Results for svm_model model and Hinselmann column:
+Best hyperparameters: {'C': 1, 'kernel': 'linear'}
+Accuracy: 0.7961
+Precision: 1.0000
+Recall: 0.5862
+F1-score: 0.7391
+ROC AUC score: 0.7931
+
+Results for clf model and Hinselmann column:
+Best hyperparameters: {'var_smoothing': 1e-07}
+Accuracy: 0.6456
+Precision: 0.5846
+Recall: 0.9704
+F1-score: 0.7296
+ROC AUC score: 0.6503
+
+Results for rf_model model and Hinselmann column:
+Best hyperparameters: {'max_depth': None, 'n_estimators': 200}
+Accuracy: 0.9684
+Precision: 0.9798
+Recall: 0.9557
+F1-score: 0.9676
+ROC AUC score: 0.9683
+
+Results for Dt_model model and Hinselmann column:
+Best hyperparameters: {'criterion': 'entropy', 'max_depth': None}
+Accuracy: 0.9563
+Precision: 0.9648
+Recall: 0.9458
+F1-score: 0.9552
+ROC AUC score: 0.9562
+
+Results for knn_model model and Hinselmann column:
+Best hyperparameters: {'n_neighbors': 3, 'weights': 'distance'}
+Accuracy: 0.9102
+Precision: 0.8609
+Recall: 0.9754
+F1-score: 0.9145
+ROC AUC score: 0.9111
+
+Results for lr model and Schiller column:
+Best hyperparameters: {'C': 1, 'penalty': 'l2'}
+Accuracy: 0.8316
+Precision: 1.0000
+Recall: 0.6633
+F1-score: 0.7975
+ROC AUC score: 0.8316
+
+Results for svm_model model and Schiller column:
+Best hyperparameters: {'C': 1, 'kernel': 'linear'}
+Accuracy: 0.8316
+Precision: 1.0000
+Recall: 0.6633
+F1-score: 0.7975
+ROC AUC score: 0.8316
+
+Results for clf model and Schiller column:
+Best hyperparameters: {'var_smoothing': 1e-07}
+Accuracy: 0.6582
+Precision: 0.6250
+Recall: 0.7908
+F1-score: 0.6982
+ROC AUC score: 0.6582
+
+Results for rf_model model and Schiller column:
+Best hyperparameters: {'max_depth': None, 'n_estimators': 200}
+Accuracy: 0.9388
+Precision: 0.9624
+Recall: 0.9133
+F1-score: 0.9372
+ROC AUC score: 0.9388
+
+Results for Dt_model model and Schiller column:
+Best hyperparameters: {'criterion': 'entropy', 'max_depth': None}
+Accuracy: 0.9235
+Precision: 0.9368
+Recall: 0.9082
+F1-score: 0.9223
+ROC AUC score: 0.9235
+
+Results for knn_model model and Schiller column:
+Best hyperparameters: {'n_neighbors': 3, 'weights': 'distance'}
+Accuracy: 0.8878
+Precision: 0.8276
+Recall: 0.9796
+F1-score: 0.8972
+ROC AUC score: 0.8878
+
+Results for lr model and Citology column:
+Best hyperparameters: {'C': 1, 'penalty': 'l2'}
+Accuracy: 0.8378
+Precision: 0.9929
+Recall: 0.6829
+F1-score: 0.8092
+ROC AUC score: 0.8390
+
+Results for svm_model model and Citology column:
+Best hyperparameters: {'C': 1, 'kernel': 'linear'}
+Accuracy: 0.8354
+Precision: 0.9859
+Recall: 0.6829
+F1-score: 0.8069
+ROC AUC score: 0.8365
+
+Results for clf model and Citology column:
+Best hyperparameters: {'var_smoothing': 1e-07}
+Accuracy: 0.6069
+Precision: 0.5692
+Recall: 0.9024
+F1-score: 0.6981
+ROC AUC score: 0.6047
+
+Results for rf_model model and Citology column:
+Best hyperparameters: {'max_depth': None, 'n_estimators': 200}
+Accuracy: 0.9631
+Precision: 0.9847
+Recall: 0.9415
+F1-score: 0.9626
+ROC AUC score: 0.9633
+
+Results for Dt_model model and Citology column:
+Best hyperparameters: {'criterion': 'gini', 'max_depth': None}
+Accuracy: 0.9263
+Precision: 0.9268
+Recall: 0.9268
+F1-score: 0.9268
+ROC AUC score: 0.9263
+
+Results for knn_model model and Citology column:
+Best hyperparameters: {'n_neighbors': 3, 'weights': 'distance'}
+Accuracy: 0.8771
+Precision: 0.8270
+Recall: 0.9561
+F1-score: 0.8869
+ROC AUC score: 0.8766
+
+Results for lr model and Biopsy column:
+Best hyperparameters: {'C': 0.1, 'penalty': 'l2'}
+Accuracy: 0.8706
+Precision: 0.9865
+Recall: 0.7449
+F1-score: 0.8488
+ROC AUC score: 0.8676
+
+Results for svm_model model and Biopsy column:
+Best hyperparameters: {'C': 10, 'kernel': 'linear'}
+Accuracy: 0.8756
+Precision: 0.9932
+Recall: 0.7500
+F1-score: 0.8547
+ROC AUC score: 0.8726
+
+Results for clf model and Biopsy column:
+Best hyperparameters: {'var_smoothing': 1e-07}
+Accuracy: 0.7214
+Precision: 0.6628
+Recall: 0.8724
+F1-score: 0.7533
+ROC AUC score: 0.7251
+
+Results for rf_model model and Biopsy column:
+Best hyperparameters: {'max_depth': None, 'n_estimators': 50}
+Accuracy: 0.9527
+Precision: 0.9634
+Recall: 0.9388
+F1-score: 0.9509
+ROC AUC score: 0.9524
+
+Results for Dt_model model and Biopsy column:
+Best hyperparameters: {'criterion': 'gini', 'max_depth': None}
+Accuracy: 0.9179
+Precision: 0.9267
+Recall: 0.9031
+F1-score: 0.9147
+ROC AUC score: 0.9176
+
+Results for knn_model model and Biopsy column:
+Best hyperparameters: {'n_neighbors': 3, 'weights': 'distance'}
+Accuracy: 0.8955
+Precision: 0.8407
+Recall: 0.9694
+F1-score: 0.9005
+ROC AUC score: 0.8973
+

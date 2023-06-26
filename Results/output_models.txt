@@ -1,0 +1,48 @@
+For model ('lr', LogisticRegression()):
+For column Biopsy:
+Accuracy: 0.8706
+Precision: 0.9865
+Recall: 0.7449
+F1-score: 0.8488
+ROC AUC score: 0.8676
+
+For model ('svm_model', SVC()):
+For column Biopsy:
+Accuracy: 0.6144
+Precision: 0.6306
+Recall: 0.5051
+F1-score: 0.5609
+ROC AUC score: 0.6118
+
+For model ('clf', GaussianNB()):
+For column Biopsy:
+Accuracy: 0.8109
+Precision: 0.8333
+Recall: 0.7653
+F1-score: 0.7979
+ROC AUC score: 0.8098
+
+For model ('Dt_model', DecisionTreeClassifier()):
+For column Biopsy:
+Accuracy: 0.9179
+Precision: 0.9358
+Recall: 0.8929
+F1-score: 0.9138
+ROC AUC score: 0.9173
+
+For model ('knn_model', KNeighborsClassifier()):
+For column Biopsy:
+Accuracy: 0.9080
+Precision: 0.9206
+Recall: 0.8878
+F1-score: 0.9039
+ROC AUC score: 0.9075
+
+For model ('rf_model', RandomForestClassifier()):
+For column Biopsy:
+Accuracy: 0.9254
+Precision: 0.9368
+Recall: 0.9082
+F1-score: 0.9223
+ROC AUC score: 0.9250
+

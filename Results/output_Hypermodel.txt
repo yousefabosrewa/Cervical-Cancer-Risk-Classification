@@ -1,0 +1,112 @@
+Results for stacking ensemble and Hinselmann column:
+Accuracy: 0.9029
+Precision: 0.9095
+Recall: 0.8916
+F1-score: 0.9005
+ROC AUC score: 0.9028
+
+Results for bagging ensemble and Hinselmann column:
+Accuracy: 0.9175
+Precision: 0.9204
+Recall: 0.9113
+F1-score: 0.9158
+ROC AUC score: 0.9174
+
+Results for adaboost ensemble and Hinselmann column:
+Accuracy: 0.8835
+Precision: 0.8934
+Recall: 0.8670
+F1-score: 0.8800
+ROC AUC score: 0.8833
+
+Results for xgboost ensemble and Hinselmann column:
+Accuracy: 0.9175
+Precision: 0.9204
+Recall: 0.9113
+F1-score: 0.9158
+ROC AUC score: 0.9174
+
+Results for stacking ensemble and Schiller column:
+Accuracy: 0.8801
+Precision: 0.8860
+Recall: 0.8724
+F1-score: 0.8792
+ROC AUC score: 0.8801
+
+Results for bagging ensemble and Schiller column:
+Accuracy: 0.8852
+Precision: 0.8995
+Recall: 0.8673
+F1-score: 0.8831
+ROC AUC score: 0.8852
+
+Results for adaboost ensemble and Schiller column:
+Accuracy: 0.9031
+Precision: 0.9389
+Recall: 0.8622
+F1-score: 0.8989
+ROC AUC score: 0.9031
+
+Results for xgboost ensemble and Schiller column:
+Accuracy: 0.9082
+Precision: 0.9494
+Recall: 0.8622
+F1-score: 0.9037
+ROC AUC score: 0.9082
+
+Results for stacking ensemble and Citology column:
+Accuracy: 0.9042
+Precision: 0.9235
+Recall: 0.8829
+F1-score: 0.9027
+ROC AUC score: 0.9043
+
+Results for bagging ensemble and Citology column:
+Accuracy: 0.9042
+Precision: 0.9150
+Recall: 0.8927
+F1-score: 0.9037
+ROC AUC score: 0.9043
+
+Results for adaboost ensemble and Citology column:
+Accuracy: 0.9066
+Precision: 0.9239
+Recall: 0.8878
+F1-score: 0.9055
+ROC AUC score: 0.9068
+
+Results for xgboost ensemble and Citology column:
+Accuracy: 0.9238
+Precision: 0.9394
+Recall: 0.9073
+F1-score: 0.9231
+ROC AUC score: 0.9240
+
+Results for stacking ensemble and Biopsy column:
+Accuracy: 0.9353
+Precision: 0.9670
+Recall: 0.8980
+F1-score: 0.9312
+ROC AUC score: 0.9344
+
+Results for bagging ensemble and Biopsy column:
+Accuracy: 0.9328
+Precision: 0.9519
+Recall: 0.9082
+F1-score: 0.9295
+ROC AUC score: 0.9322
+
+Results for adaboost ensemble and Biopsy column:
+Accuracy: 0.9303
+Precision: 0.9421
+Recall: 0.9133
+F1-score: 0.9275
+ROC AUC score: 0.9299
+
+Results for xgboost ensemble and Biopsy column:
+Accuracy: 0.9328
+Precision: 0.9519
+Recall: 0.9082
+F1-score: 0.9295
+ROC AUC score: 0.9322
+

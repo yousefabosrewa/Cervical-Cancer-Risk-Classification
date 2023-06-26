@@ -1,0 +1,84 @@
+For model cnn_model and column Hinselmann
+Accuracy: 0.8349
+Precision: 0.8734
+Recall: 0.8034
+F1-score: 0.8301
+ROC AUC score: 0.8387
+
+For model rnn_model and column Hinselmann
+Accuracy: 0.8428
+Precision: 0.8349
+Recall: 0.8678
+F1-score: 0.8442
+ROC AUC score: 0.8491
+
+For model lstm_model and column Hinselmann
+Accuracy: 0.6909
+Precision: 0.6486
+Recall: 0.8556
+F1-score: 0.7321
+ROC AUC score: 0.6939
+
+For model cnn_model and column Schiller
+Accuracy: 0.8700
+Precision: 0.9443
+Recall: 0.7836
+F1-score: 0.8552
+ROC AUC score: 0.8692
+
+For model rnn_model and column Schiller
+Accuracy: 0.8782
+Precision: 0.8756
+Recall: 0.8881
+F1-score: 0.8800
+ROC AUC score: 0.8792
+
+For model lstm_model and column Schiller
+Accuracy: 0.7947
+Precision: 0.8934
+Recall: 0.6983
+F1-score: 0.7692
+ROC AUC score: 0.7945
+
+For model cnn_model and column Citology
+Accuracy: 0.8883
+Precision: 0.9215
+Recall: 0.8525
+F1-score: 0.8827
+ROC AUC score: 0.8888
+
+For model rnn_model and column Citology
+Accuracy: 0.9245
+Precision: 0.9148
+Recall: 0.9389
+F1-score: 0.9256
+ROC AUC score: 0.9252
+
+For model lstm_model and column Citology
+Accuracy: 0.8772
+Precision: 0.8833
+Recall: 0.8725
+F1-score: 0.8739
+ROC AUC score: 0.8760
+
+For model cnn_model and column Biopsy
+Accuracy: 0.9060
+Precision: 0.9680
+Recall: 0.8402
+F1-score: 0.8986
+ROC AUC score: 0.9070
+
+For model rnn_model and column Biopsy
+Accuracy: 0.9396
+Precision: 0.9351
+Recall: 0.9432
+F1-score: 0.9390
+ROC AUC score: 0.9393
+
+For model lstm_model and column Biopsy
+Accuracy: 0.9203
+Precision: 0.9476
+Recall: 0.8892
+F1-score: 0.9158
+ROC AUC score: 0.9185
+

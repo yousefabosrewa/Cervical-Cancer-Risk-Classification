@@ -1,0 +1,192 @@
+For model lr:
+For column Hinselmann:
+Accuracy: 0.7998
+Precision: 0.8394
+Recall: 0.7387
+F1-score: 0.7891
+ROC AUC score: 0.8930
+
+For model svm_model:
+For column Hinselmann:
+Accuracy: 0.5925
+Precision: 0.5675
+Recall: 0.8000
+F1-score: 0.6651
+ROC AUC score: 0.6918
+
+For model clf:
+For column Hinselmann:
+Accuracy: 0.5884
+Precision: 0.5539
+Recall: 0.9548
+F1-score: 0.7001
+ROC AUC score: 0.8568
+
+For model Dt_model:
+For column Hinselmann:
+Accuracy: 0.9157
+Precision: 0.9112
+Recall: 0.9242
+F1-score: 0.9178
+ROC AUC score: 0.9498
+
+For model knn_model:
+For column Hinselmann:
+Accuracy: 0.8152
+Precision: 0.8563
+Recall: 0.7645
+F1-score: 0.8031
+ROC AUC score: 0.8889
+
+For model rf_model:
+For column Hinselmann:
+Accuracy: 0.9222
+Precision: 0.9198
+Recall: 0.9274
+F1-score: 0.9238
+ROC AUC score: 0.9797
+
+For model lr:
+For column Schiller:
+Accuracy: 0.7926
+Precision: 0.8772
+Recall: 0.6821
+F1-score: 0.7649
+ROC AUC score: 0.8496
+
+For model svm_model:
+For column Schiller:
+Accuracy: 0.5995
+Precision: 0.6643
+Recall: 0.4051
+F1-score: 0.5001
+ROC AUC score: 0.6441
+
+For model clf:
+For column Schiller:
+Accuracy: 0.7279
+Precision: 0.7363
+Recall: 0.7651
+F1-score: 0.7417
+ROC AUC score: 0.7813
+
+For model Dt_model:
+For column Schiller:
+Accuracy: 0.8622
+Precision: 0.8759
+Recall: 0.8402
+F1-score: 0.8576
+ROC AUC score: 0.9024
+
+For model knn_model:
+For column Schiller:
+Accuracy: 0.8044
+Precision: 0.8322
+Recall: 0.7738
+F1-score: 0.7908
+ROC AUC score: 0.8904
+
+For model rf_model:
+For column Schiller:
+Accuracy: 0.8810
+Precision: 0.9066
+Recall: 0.8674
+F1-score: 0.8763
+ROC AUC score: 0.9547
+
+For model lr:
+For column Citology:
+Accuracy: 0.7715
+Precision: 0.9890
+Recall: 0.5503
+F1-score: 0.7025
+ROC AUC score: 0.8363
+
+For model svm_model:
+For column Citology:
+Accuracy: 0.5978
+Precision: 0.6212
+Recall: 0.4959
+F1-score: 0.5485
+ROC AUC score: 0.6446
+
+For model clf:
+For column Citology:
+Accuracy: 0.6069
+Precision: 0.5646
+Recall: 0.9261
+F1-score: 0.6996
+ROC AUC score: 0.8031
+
+For model Dt_model:
+For column Citology:
+Accuracy: 0.8845
+Precision: 0.8933
+Recall: 0.8769
+F1-score: 0.8833
+ROC AUC score: 0.9398
+
+For model knn_model:
+For column Citology:
+Accuracy: 0.8108
+Precision: 0.8561
+Recall: 0.7457
+F1-score: 0.8057
+ROC AUC score: 0.8776
+
+For model rf_model:
+For column Citology:
+Accuracy: 0.8935
+Precision: 0.9006
+Recall: 0.8836
+F1-score: 0.8928
+ROC AUC score: 0.9638
+
+For model Results\LogisticRegression()_Biopsy_model.pkl:
+For column Biopsy:
+Accuracy: 0.8523
+Precision: 0.9764
+Recall: 0.7217
+F1-score: 0.8284
+ROC AUC score: 0.8806
+
+For model Results\SVC()_Biopsy_model.pkl:
+For column Biopsy:
+Accuracy: 0.6188
+Precision: 0.6483
+Recall: 0.5518
+F1-score: 0.5932
+ROC AUC score: 0.6557
+
+For model Results\GaussianNB()_Biopsy_model.pkl:
+For column Biopsy:
+Accuracy: 0.7650
+Precision: 0.7774
+Recall: 0.7464
+F1-score: 0.7588
+ROC AUC score: 0.8409
+
+For model Results\DecisionTreeClassifier()_Biopsy_model.pkl:
+For column Biopsy:
+Accuracy: 0.9195
+Precision: 0.9379
+Recall: 0.8962
+F1-score: 0.9168
+ROC AUC score: 0.9408
+
+For model Results\KNeighborsClassifier()_Biopsy_model.pkl:
+For column Biopsy:
+Accuracy: 0.8805
+Precision: 0.8918
+Recall: 0.8666
+F1-score: 0.8732
+ROC AUC score: 0.9411
+
+For model Results\RandomForestClassifier()_Biopsy_model.pkl:
+For column Biopsy:
+Accuracy: 0.9269
+Precision: 0.9467
+Recall: 0.9093
+F1-score: 0.9189
+ROC AUC score: 0.9789
+
